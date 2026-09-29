@@ -1,3 +1,3 @@
 data adsl;
- study='VIA001';
+ study='VIA001_User2';
 run;
